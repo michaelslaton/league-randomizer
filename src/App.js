@@ -1,23 +1,42 @@
-import logo from './logo.svg';
-import './App.css';
+import mythicItems from './data/mythic-items';
+import legendaryItems from './data/legendary-items';
+import epicItems from './data/epic-items';
+import boots from './data/boots';
+import champions from './data/champions';
+import './app.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <div className="App">
+        {mythicItems.map((item)=> (
+          <img className='icon' alt={item.name} src={item.img}/>
+        ))}
+      </div>
+      
+      <div className="App">
+        {legendaryItems.map((item)=> (
+          <img className='icon' alt={item.name} src={item.img}/>
+        ))}
+      </div>
+      
+      <div className="App">
+        {epicItems.map((item)=> (
+          <img className='icon' alt={item.name} src={item.img}/>
+        ))}
+      </div>
+
+      <div>
+        {champions.map((champ)=> (
+          <img className='icon' alt={champ.name} src={champ.img}/>
+        ))}
+      </div>
+
+      <div>
+        {boots.map((boot)=> (
+          <img className='icon' alt={boot.name} src={boot.img}/>
+        ))}
+      </div>
     </div>
   );
 }
