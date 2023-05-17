@@ -32,6 +32,19 @@ import oblivionOrb from '../assets/items/epic/oblivionorb.png';
 import phage from '../assets/items/epic/phage.png';
 import quicksilverSash from '../assets/items/epic/quicksilversash.png';
 import rageknife from '../assets/items/epic/rageknife.png';
+import recurveBow from '../assets/items/epic/recurvebow.png';
+import runesteelSpaulders from '../assets/items/epic/runesteelspaulders.png';
+import seekersArmguard from '../assets/items/epic/seekersarmguard.png';
+import serratedDirk from '../assets/items/epic/serrateddirk.png';
+import spectresCowl from '../assets/items/epic/spectrescowl.png';
+import targonsBuckler from '../assets/items/epic/targonsbuckler.png';
+import tiamat from '../assets/items/epic/tiamat.png';
+import vampiricScepter from '../assets/items/epic/vampiricscepter.png';
+import verdantBarrier from '../assets/items/epic/verdantbarrier.png';
+import wardensMail from '../assets/items/epic/wardensmail.png';
+import watchfulWardstone from '../assets/items/epic/watchfulwardstone.png';
+import wingedMoonplate from '../assets/items/epic/wingedmoonplate.png';
+import zeal from '../assets/items/epic/zeal.png';
 
  const epicItems = [
   {
@@ -203,6 +216,71 @@ import rageknife from '../assets/items/epic/rageknife.png';
     id: 34,
     name: `Rageknife`,
     img: rageknife,
+  },
+  {
+    id: 35,
+    name: `Recuve Bow`,
+    img: recurveBow,
+  },
+  {
+    id: 36,
+    name: `Runesteel Spaulders`,
+    img: runesteelSpaulders,
+  },
+  {
+    id: 37,
+    name: `Seeker's Armguard`,
+    img: seekersArmguard,
+  },
+  {
+    id: 38,
+    name: `Serrated Dirk`,
+    img: serratedDirk,
+  },
+  {
+    id: 39,
+    name: `Spectre's Cowl`,
+    img: spectresCowl,
+  },
+  {
+    id: 40,
+    name: `Targon's Buckler`,
+    img: targonsBuckler,
+  },
+  {
+    id: 41,
+    name: `Tiamat`,
+    img: tiamat,
+  },
+  {
+    id: 42,
+    name: `Vampiric Scepter`,
+    img: vampiricScepter,
+  },
+  {
+    id: 43,
+    name: `Verdant Barrier`,
+    img: verdantBarrier,
+  },
+  {
+    id: 44,
+    name: `Warden's Mail`,
+    img: wardensMail,
+  },
+  {
+    id: 45,
+    name: `Watchful Wardstone`,
+    img: watchfulWardstone,
+  },
+  {
+    id: 46,
+    name: `Winged Moonplate`,
+    img: wingedMoonplate,
+  },
+  {
+    id: 47,
+    name: `Zeal`,
+    img: zeal,
   },
 ]
 
