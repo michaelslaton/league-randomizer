@@ -219,7 +219,7 @@ import zeal from '../assets/items/epic/zeal.png';
   },
   {
     id: 35,
-    name: `Recuve Bow`,
+    name: `Recurve Bow`,
     img: recurveBow,
   },
   {
