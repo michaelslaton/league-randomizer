@@ -67,13 +67,13 @@ import zeal from '../assets/items/epic/zeal.png';
     id: 4,
     name: `Bandleglass Mirror`,
     img: bandleglassMirror,
-    unique: [ `Mythic Component` ],
+    unique: [ `mythic Component` ],
   },
   {
     id: 5,
     name: `Blighting Jewel`,
     img: blightingJewel,
-    unique: [ `Void Pen` ],
+    unique: [ `void pen` ],
   },
   {
     id: 6,
@@ -85,7 +85,7 @@ import zeal from '../assets/items/epic/zeal.png';
     id: 7,
     name: `Catalyst of Aeons`,
     img: catalystOfAeons,
-    unique: [ `Eternity` ],
+    unique: [ `eternity` ],
   },
   {
     id: 8,
