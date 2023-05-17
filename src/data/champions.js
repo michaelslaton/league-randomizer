@@ -434,22 +434,22 @@ import zyra from '../assets/champions/zyra.png';
     img: karma,
   },
   {
-    id: 56,
+    id: 55,
     name: `Karthus`,
     img: karthus,
   },
   {
-    id: 57,
+    id: 56,
     name: `Kassadin`,
     img: kassadin,
   },
   {
-    id: 58,
+    id: 57,
     name: `Katarina`,
     img: katarina,
   },
   {
-    id: 59,
+    id: 58,
     name: `Kayle`,
     img: kayle,
   },
@@ -462,6 +462,521 @@ import zyra from '../assets/champions/zyra.png';
     id: 60,
     name: `Kennen`,
     img: kennen,
+  },
+  {
+    id: 61,
+    name: `Kha'Zix`,
+    img: khazix,
+  },
+  {
+    id: 62,
+    name: `Kindred`,
+    img: kindred,
+  },
+  {
+    id: 63,
+    name: `Kled`,
+    img: kled,
+  },
+  {
+    id: 64,
+    name: `Kog'Maw`,
+    img: kogmaw,
+  },
+  {
+    id: 65,
+    name: `K'Sante`,
+    img: ksante,
+  },
+  {
+    id: 66,
+    name: `LeBlanc`,
+    img: leblanc,
+  },
+  {
+    id: 67,
+    name: `Lee Sin`,
+    img: leesin,
+  },
+  {
+    id: 68,
+    name: `Leona`,
+    img: leona,
+  },
+  {
+    id: 69,
+    name: `Lillia`,
+    img: lillia,
+  },
+  {
+    id: 70,
+    name: `Lissandara`,
+    img: lissandara,
+  },
+  {
+    id: 71,
+    name: `Lucian`,
+    img: lucian,
+  },
+  {
+    id: 72,
+    name: `Lulu`,
+    img: lulu,
+  },
+  {
+    id: 73,
+    name: `Lux`,
+    img: lux,
+  },
+  {
+    id: 74,
+    name: `Malphite`,
+    img: malphite,
+  },
+  {
+    id: 75,
+    name: `Malzahar`,
+    img: malzahar,
+  },
+  {
+    id: 76,
+    name: `Maokai`,
+    img: maokai,
+  },
+  {
+    id: 77,
+    name: `Master Yi`,
+    img: masteryi,
+  },
+  {
+    id: 78,
+    name: `Milio`,
+    img: milio,
+  },
+  {
+    id: 79,
+    name: `Miss Fortune`,
+    img: missfortune,
+  },
+  {
+    id: 80,
+    name: `Mordekaiser`,
+    img: mordekaiser,
+  },
+  {
+    id: 81,
+    name: `Morgana`,
+    img: morgana,
+  },
+  {
+    id: 82,
+    name: `Nami`,
+    img: nami,
+  },
+  {
+    id: 83,
+    name: `Nasus`,
+    img: nasus,
+  },
+  {
+    id: 84,
+    name: `Nautilus`,
+    img: nautilus,
+  },
+  {
+    id: 85,
+    name: `Neeko`,
+    img: neeko,
+  },
+  {
+    id: 86,
+    name: `Nidalee`,
+    img: nidalee,
+  },
+  {
+    id: 87,
+    name: `Nilah`,
+    img: nilah,
+  },
+  {
+    id: 88,
+    name: `Nocturne`,
+    img: nocturne,
+  },
+  {
+    id: 89,
+    name: `Nunu`,
+    img: nunu,
+  },
+  {
+    id: 90,
+    name: `Olaf`,
+    img: olaf,
+  },
+  {
+    id: 91,
+    name: `Orianna`,
+    img: orianna,
+  },
+  {
+    id: 92,
+    name: `Ornn`,
+    img: ornn,
+  },
+  {
+    id: 93,
+    name: `Pantheon`,
+    img: pantheon,
+  },
+  {
+    id: 94,
+    name: `Poppy`,
+    img: poppy,
+  },
+  {
+    id: 95,
+    name: `Pyke`,
+    img: pyke,
+  },
+  {
+    id: 96,
+    name: `Qiyana`,
+    img: qiyana,
+  },
+  {
+    id: 97,
+    name: `Quinn`,
+    img: quinn,
+  },
+  {
+    id: 98,
+    name: `Rakan`,
+    img: rakan,
+  },
+  {
+    id: 99,
+    name: `Rammus`,
+    img: rammus,
+  },
+  {
+    id: 100,
+    name: `Rek'Sai`,
+    img: reksai,
+  },
+  {
+    id: 101,
+    name: `Rell`,
+    img: rell,
+  },
+  {
+    id: 102,
+    name: `Renata Glasc`,
+    img: renataglasc,
+  },
+  {
+    id: 103,
+    name: `Renekton`,
+    img: renekton,
+  },
+  {
+    id: 104,
+    name: `Rengar`,
+    img: rengar,
+  },
+  {
+    id: 105,
+    name: `Riven`,
+    img: riven,
+  },
+  {
+    id: 106,
+    name: `Rumble`,
+    img: rumble,
+  },
+  {
+    id: 107,
+    name: `Ryze`,
+    img: ryze,
+  },
+  {
+    id: 108,
+    name: `Samira`,
+    img: samira,
+  },
+  {
+    id: 109,
+    name: `Sejuani`,
+    img: sejuani,
+  },
+  {
+    id: 110,
+    name: `Senna`,
+    img: senna,
+  },
+  {
+    id: 111,
+    name: `Seraphine`,
+    img: seraphine,
+  },
+  {
+    id: 112,
+    name: `Sett`,
+    img: sett,
+  },
+  {
+    id: 113,
+    name: `Shaco`,
+    img: shaco,
+  },
+  {
+    id: 114,
+    name: `Shen`,
+    img: shen,
+  },
+  {
+    id: 115,
+    name: `Shyvana`,
+    img: shyvana,
+  },
+  {
+    id: 116,
+    name: `Singed`,
+    img: singed,
+  },
+  {
+    id: 117,
+    name: `Sion`,
+    img: sion,
+  },
+  {
+    id: 118,
+    name: `Sivir`,
+    img: sivir,
+  },
+  {
+    id: 119,
+    name: `Skarner`,
+    img: skarner,
+  },
+  {
+    id: 120,
+    name: `Sona`,
+    img: sona,
+  },
+  {
+    id: 121,
+    name: `Soraka`,
+    img: soraka,
+  },
+  {
+    id: 122,
+    name: `Swain`,
+    img: swain,
+  },
+  {
+    id: 123,
+    name: `Sylas`,
+    img: sylas,
+  },
+  {
+    id: 124,
+    name: `Syndra`,
+    img: syndra,
+  },
+  {
+    id: 125,
+    name: `Tahm Kench`,
+    img: tahm,
+  },
+  {
+    id: 126,
+    name: `Taliyah`,
+    img: taliyah,
+  },
+  {
+    id: 127,
+    name: `Talon`,
+    img: talon,
+  },
+  {
+    id: 128,
+    name: `Taric`,
+    img: taric,
+  },
+  {
+    id: 129,
+    name: `Teemo`,
+    img: teemo,
+  },
+  {
+    id: 130,
+    name: `Thresh`,
+    img: thresh,
+  },
+  {
+    id: 131,
+    name: `Tristana`,
+    img: tristana,
+  },
+  {
+    id: 132,
+    name: `Trundle`,
+    img: trundle,
+  },
+  {
+    id: 133,
+    name: `Tryndamere`,
+    img: tryndamere,
+  },
+  {
+    id: 134,
+    name: `Twisted Fate`,
+    img: twistedfate,
+  },
+  {
+    id: 135,
+    name: `Twitch`,
+    img: twitch,
+  },
+  {
+    id: 136,
+    name: `Udyr`,
+    img: udyr,
+  },
+  {
+    id: 137,
+    name: `Urgot`,
+    img: urgot,
+  },
+  {
+    id: 138,
+    name: `Varus`,
+    img: varus,
+  },
+  {
+    id: 139,
+    name: `Vayne`,
+    img: vayne,
+  },
+  {
+    id: 140,
+    name: `Veigar`,
+    img: veigar,
+  },
+  {
+    id: 141,
+    name: `Vel'Koz`,
+    img: velkoz,
+  },
+  {
+    id: 142,
+    name: `Vex`,
+    img: vex,
+  },
+  {
+    id: 143,
+    name: `Vi`,
+    img: vi,
+  },
+  {
+    id: 144,
+    name: `Viego`,
+    img: viego,
+  },
+  {
+    id: 145,
+    name: `Viktor`,
+    img: viktor,
+  },
+  {
+    id: 146,
+    name: `Vladimir`,
+    img: vladimir,
+  },
+  {
+    id: 147,
+    name: `Volibear`,
+    img: volibear,
+  },
+  {
+    id: 148,
+    name: `Warwick`,
+    img: warwick,
+  },
+  {
+    id: 149,
+    name: `Wukong`,
+    img: wukong,
+  },
+  {
+    id: 150,
+    name: `Xayah`,
+    img: xayah,
+  },
+  {
+    id: 151,
+    name: `Xerath`,
+    img: xerath,
+  },
+  {
+    id: 152,
+    name: `Xin Zhao`,
+    img: xinzhao,
+  },
+  {
+    id: 153,
+    name: `Yasuo`,
+    img: yasuo,
+  },
+  {
+    id: 154,
+    name: `Yone`,
+    img: yone,
+  },
+  {
+    id: 155,
+    name: `Yorick`,
+    img: yorick,
+  },
+  {
+    id: 156,
+    name: `Yuumi`,
+    img: yuumi,
+  },
+  {
+    id: 157,
+    name: `Zac`,
+    img: zac,
+  },
+  {
+    id: 158,
+    name: `Zed`,
+    img: zed,
+  },
+  {
+    id: 159,
+    name: `Zeri`,
+    img: zeri,
+  },
+  {
+    id: 160,
+    name: `Ziggs`,
+    img: ziggs,
+  },
+  {
+    id: 161,
+    name: `Zilean`,
+    img: zilean,
+  },
+  {
+    id: 162,
+    name: `Zoe`,
+    img: zoe,
+  },
+  {
+    id: 163,
+    name: `Zyra`,
+    img: zyra,
   },
 ]
 

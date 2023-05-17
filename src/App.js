@@ -8,34 +8,34 @@ import './app.css';
 function App() {
   return (
     <div>
-      <div className="App">
+      <div>
         {mythicItems.map((item)=> (
-          <img className='icon' alt={item.name} src={item.img}/>
+          <img key={item.id} className='icon' alt={item.name} src={item.img}/>
         ))} {`${mythicItems.length}`}
       </div>
       
-      <div className="App">
+      <div>
         {legendaryItems.map((item)=> (
-          <img className='icon' alt={item.name} src={item.img}/>
+          <img key={item.id} className='icon' alt={item.name} src={item.img}/>
         ))} {`${legendaryItems.length}`}
       </div>
       
-      <div className="App">
+      <div>
         {epicItems.map((item)=> (
-          <img className='icon' alt={item.name} src={item.img}/>
+          <img key={item.id} className='icon' alt={item.name} src={item.img}/>
         ))} {`${epicItems.length}`}
       </div>
 
       <div>
-        {champions.map((champ)=> (
-          <img className='icon' alt={champ.name} src={champ.img}/>
-        ))} {`${champions.length}`}
+        {boots.map((boot)=> (
+          <img key={boot.id} className='icon' alt={boot.name} src={boot.img}/>
+        ))} {`${boots.length}`}
       </div>
 
       <div>
-        {boots.map((boot)=> (
-          <img className='icon' alt={boot.name} src={boot.img}/>
-        ))} {`${boots.length}`}
+        {champions.map((champ)=> (
+          <img key={champ.id} className='icon' alt={champ.name} src={champ.img}/>
+        ))} {`${champions.length}`}
       </div>
     </div>
   );
