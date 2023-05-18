@@ -1,48 +1,50 @@
-import aegisOfTheLegion from '../assets/items/epic/aegisofthelegion.png';
-import aetherWisp from '../assets/items/epic/aetherwisp.png';
-import bamisCinder from '../assets/items/epic/bamiscinder.png';
-import bandleglassMirror from '../assets/items/epic/bandleglassmirror.png';
-import blightingJewel from '../assets/items/epic/blightingjewel.png'
-import brambleVest from '../assets/items/epic/bramblevest.png'
-import catalystOfAeons from '../assets/items/epic/catalystofaeons.png';
-import caulfieldsWarhammer from '../assets/items/epic/caulfieldswarhammer.png';
-import chainVest from '../assets/items/epic/chainvest.png';
-import crystallineBracer from '../assets/items/epic/crystallinebracer.png';
-import executionersCalling from '../assets/items/epic/executionerscalling.png';
-import fiendishCodex from '../assets/items/epic/fiendishcodex.png';
-import forbiddenIdol from '../assets/items/epic/forbiddenidol.png';
-import frostfang from '../assets/items/epic/frostfang.png';
-import giantsBelt from '../assets/items/epic/giantsbelt.png';
-import glacialBuckler from '../assets/items/epic/glacialbuckler.png';
-import harrowingCrescent from '../assets/items/epic/harrowingcrescent.png';
-import hearthboundAxe from '../assets/items/epic/hearthboundaxe.png';
-import hexdrinker from '../assets/items/epic/hexdrinker.png';
-import hextechAlternator from '../assets/items/epic/hextechalternator.png';
-import ironspikeWhip from '../assets/items/epic/ironspikewhip.png'
-import kindlegem from '../assets/items/epic/kindlegem.png';
-import kircheisShard from '../assets/items/epic/kircheisshard.png';
-import lastWhisper from '../assets/items/epic/lastwhisper.png';
-import leechingLeer from '../assets/items/epic/leechingleer.png';
-import lostChapter from '../assets/items/epic/lostchapter.png';
-import negatronCloak from '../assets/items/epic/negatroncloak.png';
-import noonquiver from '../assets/items/epic/noonquiver.png';
-import oblivionOrb from '../assets/items/epic/oblivionorb.png';
-import phage from '../assets/items/epic/phage.png';
-import quicksilverSash from '../assets/items/epic/quicksilversash.png';
-import rageknife from '../assets/items/epic/rageknife.png';
-import recurveBow from '../assets/items/epic/recurvebow.png';
-import runesteelSpaulders from '../assets/items/epic/runesteelspaulders.png';
-import seekersArmguard from '../assets/items/epic/seekersarmguard.png';
-import serratedDirk from '../assets/items/epic/serrateddirk.png';
-import spectresCowl from '../assets/items/epic/spectrescowl.png';
-import targonsBuckler from '../assets/items/epic/targonsbuckler.png';
-import tiamat from '../assets/items/epic/tiamat.png';
-import vampiricScepter from '../assets/items/epic/vampiricscepter.png';
-import verdantBarrier from '../assets/items/epic/verdantbarrier.png';
-import wardensMail from '../assets/items/epic/wardensmail.png';
-import watchfulWardstone from '../assets/items/epic/watchfulwardstone.png';
-import wingedMoonplate from '../assets/items/epic/wingedmoonplate.png';
-import zeal from '../assets/items/epic/zeal.png';
+import aegisOfTheLegion from '../assets/items/aegisofthelegion.png';
+import aetherWisp from '../assets/items/aetherwisp.png';
+import bamisCinder from '../assets/items/bamiscinder.png';
+import bandleglassMirror from '../assets/items/bandleglassmirror.png';
+import blightingJewel from '../assets/items/blightingjewel.png'
+import brambleVest from '../assets/items/bramblevest.png'
+import catalystOfAeons from '../assets/items/catalystofaeons.png';
+import caulfieldsWarhammer from '../assets/items/caulfieldswarhammer.png';
+import chainVest from '../assets/items/chainvest.png';
+import crystallineBracer from '../assets/items/crystallinebracer.png';
+import executionersCalling from '../assets/items/executionerscalling.png';
+import fiendishCodex from '../assets/items/fiendishcodex.png';
+import forbiddenIdol from '../assets/items/forbiddenidol.png';
+import frostfang from '../assets/items/frostfang.png';
+import giantsBelt from '../assets/items/giantsbelt.png';
+import glacialBuckler from '../assets/items/glacialbuckler.png';
+import harrowingCrescent from '../assets/items/harrowingcrescent.png';
+import hearthboundAxe from '../assets/items/hearthboundaxe.png';
+import hexdrinker from '../assets/items/hexdrinker.png';
+import hextechAlternator from '../assets/items/hextechalternator.png';
+import ironspikeWhip from '../assets/items/ironspikewhip.png'
+import kindlegem from '../assets/items/kindlegem.png';
+import kircheisShard from '../assets/items/kircheisshard.png';
+import lastWhisper from '../assets/items/lastwhisper.png';
+import leechingLeer from '../assets/items/leechingleer.png';
+import lostChapter from '../assets/items/lostchapter.png';
+import negatronCloak from '../assets/items/negatroncloak.png';
+import noonquiver from '../assets/items/noonquiver.png';
+import oblivionOrb from '../assets/items/oblivionorb.png';
+import phage from '../assets/items/phage.png';
+import quicksilverSash from '../assets/items/quicksilversash.png';
+import rageknife from '../assets/items/rageknife.png';
+import recurveBow from '../assets/items/recurvebow.png';
+import runesteelSpaulders from '../assets/items/runesteelspaulders.png';
+import seekersArmguard from '../assets/items/seekersarmguard.png';
+import serratedDirk from '../assets/items/serrateddirk.png';
+import spectresCowl from '../assets/items/spectrescowl.png';
+import targonsBuckler from '../assets/items/targonsbuckler.png';
+import tiamat from '../assets/items/tiamat.png';
+import vampiricScepter from '../assets/items/vampiricscepter.png';
+import verdantBarrier from '../assets/items/verdantbarrier.png';
+import wardensMail from '../assets/items/wardensmail.png';
+import watchfulWardstone from '../assets/items/watchfulwardstone.png';
+import wingedMoonplate from '../assets/items/wingedmoonplate.png';
+import zeal from '../assets/items/zeal.png';
+import chaliceofblessing from '../assets/items/chaliceofblessing.png';
+import lifewellpendant from '../assets/items/lifewellpendant.png';
 
  const epicItems = [
   {
@@ -55,7 +57,7 @@ import zeal from '../assets/items/epic/zeal.png';
     id: 2,
     name: `Aether Wisp`,
     img: aetherWisp,
-    unique: [],
+    unique: [ `glide` ],
   },
   {
     id: 3,
@@ -85,7 +87,7 @@ import zeal from '../assets/items/epic/zeal.png';
     id: 7,
     name: `Catalyst of Aeons`,
     img: catalystOfAeons,
-    unique: [ `eternity` ],
+    unique: [ `eternity`, `mythic component` ],
   },
   {
     id: 8,
@@ -115,7 +117,7 @@ import zeal from '../assets/items/epic/zeal.png';
     id: 12,
     name: `Executioner's Calling`,
     img: executionersCalling,
-    unique: [],
+    unique: [ `rend` ],
   },
   {
     id: 13,
@@ -133,7 +135,7 @@ import zeal from '../assets/items/epic/zeal.png';
     id: 15,
     name: `Frostfang`,
     img: frostfang,
-    unique: [ `support` ],
+    unique: [ `support`, `warding`, `tribute`, `quest` ],
   },
   {
     id: 16,
@@ -151,13 +153,13 @@ import zeal from '../assets/items/epic/zeal.png';
     id: 18,
     name: `Harrowing Crescent`,
     img: harrowingCrescent,
-    unique: [ `support` ],
+    unique: [ `support`, `jungle`, `warding`, `tribute`, `quest` ],
   },
   {
     id: 19,
     name: `Hearthbound Axe`,
     img: hearthboundAxe,
-    unique: [],
+    unique: [ `nimble` ],
   },
   {
     id: 20,
@@ -169,13 +171,13 @@ import zeal from '../assets/items/epic/zeal.png';
     id: 21,
     name: `Hextech Alternator`,
     img: hextechAlternator,
-    unique: [],
+    unique: [ `revved` ],
   },
   {
     id: 22,
     name: `Ironspike Whip`,
     img: ironspikeWhip,
-    unique: [ `mythic component` ],
+    unique: [ `mythic component`, `crescent` ],
   },
   {
     id: 23,
@@ -187,7 +189,7 @@ import zeal from '../assets/items/epic/zeal.png';
     id: 24,
     name: `Kircheis Shard`,
     img: kircheisShard,
-    unique: [],
+    unique: [ `energized`, `jolt` ],
   },
   {
     id: 25,
@@ -205,13 +207,13 @@ import zeal from '../assets/items/epic/zeal.png';
     id: 27,
     name: `Winged Moonplate`,
     img: wingedMoonplate,
-    unique: [],
+    unique: [ `flight` ],
   },
   {
     id: 28,
     name: `Lost Chapter`,
     img: lostChapter,
-    unique: [ `mythic component` ],
+    unique: [ `mythic component`, `enlighten` ],
   },
   {
     id: 29,
@@ -223,19 +225,19 @@ import zeal from '../assets/items/epic/zeal.png';
     id: 30,
     name: `Noonquiver`,
     img: noonquiver,
-    unique: [ `mythic component` ],
+    unique: [],
   },
   {
     id: 31,
     name: `Oblivion Orb`,
     img: oblivionOrb,
-    unique: [],
+    unique: [ `cursed` ],
   },
   {
     id: 32,
     name: `Phage`,
     img: phage,
-    unique: [],
+    unique: [ `sturdy` ],
   },
   {
     id: 33,
@@ -247,49 +249,49 @@ import zeal from '../assets/items/epic/zeal.png';
     id: 34,
     name: `Rageknife`,
     img: rageknife,
-    unique: [ `crit modifier` ],
+    unique: [ `crit modifier`, `wrath`, `seething strike`, `mythic component` ],
   },
   {
     id: 35,
     name: `Recurve Bow`,
     img: recurveBow,
-    unique: [],
+    unique: [ `steeltipped` ],
   },
   {
     id: 36,
     name: `Runesteel Spaulders`,
     img: runesteelSpaulders,
-    unique: [ `support` ],
+    unique: [ `support`, `jungle`, `warding`, `spoils of war`, `quest` ],
   },
   {
     id: 37,
     name: `Seeker's Armguard`,
     img: seekersArmguard,
-    unique: [],
+    unique: [ `witch's path` ],
   },
   {
     id: 38,
     name: `Serrated Dirk`,
     img: serratedDirk,
-    unique: [],
+    unique: [ `gouge` ],
   },
   {
     id: 39,
     name: `Spectre's Cowl`,
     img: spectresCowl,
-    unique: [],
+    unique: [ `incorporeal` ],
   },
   {
     id: 40,
     name: `Targon's Buckler`,
     img: targonsBuckler,
-    unique: [ `support` ],
+    unique: [ `support`, `jungle`, `warding`, `spoils of war`, `quest` ],
   },
   {
     id: 41,
     name: `Tiamat`,
     img: tiamat,
-    unique: [ `hydra` ],
+    unique: [ `hydra`, `cleave` ],
   },
   {
     id: 42,
@@ -301,19 +303,31 @@ import zeal from '../assets/items/epic/zeal.png';
     id: 43,
     name: `Verdant Barrier`,
     img: verdantBarrier,
-    unique: [],
+    unique: [ `adaptive` ],
   },
   {
     id: 44,
     name: `Warden's Mail`,
     img: wardensMail,
-    unique: [],
+    unique: [ `rock solid` ],
   },
   {
     id: 45,
     name: `Watchful Wardstone`,
     img: watchfulWardstone,
-    unique: [ `sightstone` ],
+    unique: [ `sightstone`, `arcane cache`, `blessing of ixtal`, `sightstone` ],
+  },
+  {
+    id: 46,
+    name: `Chalice of Blessing`,
+    img: chaliceofblessing,
+    unique: [ `Harmony` ],
+  },
+  {
+    id: 47,
+    name: `Lifewell Pendant`,
+    img: lifewellpendant,
+    unique: [ `Harmony` ],
   },
 ]
 

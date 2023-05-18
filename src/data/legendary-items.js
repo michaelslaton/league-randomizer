@@ -1,76 +1,77 @@
-import abyssalMask from '../assets/items/legendary/abyssalmask.png';
-import anathemaschains from '../assets/items/legendary/anathemaschains.png';
-import archangelsstaff from '../assets/items/legendary/archangelsstaff.png';
-import ardentcenser from '../assets/items/legendary/ardentcenser.png';
-import axiomarc from '../assets/items/legendary/axiomarc.png';
-import bansheesveil from '../assets/items/legendary/bansheesveil.png';
-import blackcleaver from '../assets/items/legendary/blackcleaver.png';
-import blackmistscythe from '../assets/items/legendary/blackmistscythe.png';
-import bladeoftheruinedking from '../assets/items/legendary/bladeoftheruinedking.png';
-import bloodthirster from '../assets/items/legendary/bloodthirster.png';
-import bulwarkofthemountain from '../assets/items/legendary/bulwarkofthemountain.png';
-import chempunkchainsword from '../assets/items/legendary/chempunkchainsword.png';
-import chemtechputrifier from '../assets/items/legendary/chemtechputrifier.png';
-import cosmicdrive from '../assets/items/legendary/cosmicdrive.png';
-import deadmansplate from '../assets/items/legendary/deadmansplate.png';
-import deathsdance from '../assets/items/legendary/deathsdance.png';
-import demonicembrace from '../assets/items/legendary/demonicembrace.png';
-import edgeofnight from '../assets/items/legendary/edgeofnight.png';
-import essencereaver from '../assets/items/legendary/essencereaver.png';
-import fimbulwinter from '../assets/items/legendary/fimbulwinter.png';
-import forceofnature from '../assets/items/legendary/forceofnature.png';
-import frozenheart from '../assets/items/legendary/frozenheart.png';
-import gargoylestoneplate from '../assets/items/legendary/gargoylestoneplate.png';
-import guardianangel from '../assets/items/legendary/guardianangel.png';
-import guinsoosrageblade from '../assets/items/legendary/guinsoosrageblade.png';
-import horizonfocus from '../assets/items/legendary/horizonfocus.png';
-import hullbreaker from '../assets/items/legendary/hullbreaker.png';
-import infinityedge from '../assets/items/legendary/infinityedge.png';
-import knightsvow from '../assets/items/legendary/knightsvow.png';
-import lichbane from '../assets/items/legendary/lichbane.png';
-import lorddominiksregards from '../assets/items/legendary/lorddominiksregards.png';
-import manamune from '../assets/items/legendary/manamune.png';
-import mawofmalmortius from '../assets/items/legendary/mawofmalmortius.png';
-import mejaissoulstealer from '../assets/items/legendary/mejaissoulstealer.png';
-import mercurialscimitar from '../assets/items/legendary/mercurialscimitar.png';
-import mikaelsblessing from '../assets/items/legendary/mikaelsblessing.png';
-import morellonomicon from '../assets/items/legendary/morellonomicon.png';
-import mortalreminder from '../assets/items/legendary/mortalreminder.png';
-import nashorstooth from '../assets/items/legendary/nashorstooth.png';
-import navoriquickblades from '../assets/items/legendary/navoriquickblades.png';
-import pauldronsofwhiterock from '../assets/items/legendary/pauldronsofwhiterock.png';
-import phantomdancer from '../assets/items/legendary/phantomdancer.png';
-import rabadonsdeathcap from '../assets/items/legendary/rabadonsdeathcap.png';
-import randuinsomen from '../assets/items/legendary/randuinsomen.png';
-import rapidfirecannon from '../assets/items/legendary/rapidfirecannon.png';
-import ravenoushydra from '../assets/items/legendary/ravenoushydra.png';
-import redemption from '../assets/items/legendary/redemption.png';
-import runaanshurricane from '../assets/items/legendary/runaanshurricane.png';
-import rylaiscrystalscepter from '../assets/items/legendary/rylaiscrystalscepter.png';
-import serpentsfang from '../assets/items/legendary/serpentsfang.png';
-import seryldasgrudge from '../assets/items/legendary/seryldasgrudge.png';
-import shadowflame from '../assets/items/legendary/shadowflame.png';
-import shardoftrueice from '../assets/items/legendary/shardoftrueice.png';
-import silvermeredawn from '../assets/items/legendary/silvermeredawn.png';
-import spearofshojin from '../assets/items/legendary/spearofshojin.png';
-import spiritvisage from '../assets/items/legendary/spiritvisage.png';
-import staffofflowingwater from '../assets/items/legendary/staffofflowingwater.png';
-import steraksgage from '../assets/items/legendary/steraksgage.png';
-import stormrazor from '../assets/items/legendary/stormrazor.png';
-import sunfireaegis from '../assets/items/legendary/sunfireaegis.png';
-import thecollector from '../assets/items/legendary/thecollector.png';
-import thornmail from '../assets/items/legendary/thornmail.png';
-import titanichydra from '../assets/items/legendary/titanichydra.png';
-import turbochemtank from '../assets/items/legendary/turbochemtank.png';
-import umbralglaive from '../assets/items/legendary/umbralglaive.png';
-import vigilantwardstone from '../assets/items/legendary/vigilantwardstone.png';
-import voidstaff from '../assets/items/legendary/voidstaff.png';
-import warmogsarmor from '../assets/items/legendary/warmogsarmor.png';
-import wintersapproach from '../assets/items/legendary/wintersapproach.png';
-import witsend from '../assets/items/legendary/witsend.png';
-import youmuusghostblade from '../assets/items/legendary/youmuusghostblade.png';
-import zekesconvergence from '../assets/items/legendary/zekesconvergence.png';
-import zhonyashourglass from '../assets/items/legendary/zhonyashourglass.png';
+import abyssalMask from '../assets/items/abyssalmask.png';
+import anathemaschains from '../assets/items/anathemaschains.png';
+import archangelsstaff from '../assets/items/archangelsstaff.png';
+import ardentcenser from '../assets/items/ardentcenser.png';
+import axiomarc from '../assets/items/axiomarc.png';
+import bansheesveil from '../assets/items/bansheesveil.png';
+import blackcleaver from '../assets/items/blackcleaver.png';
+import blackmistscythe from '../assets/items/blackmistscythe.png';
+import bladeoftheruinedking from '../assets/items/bladeoftheruinedking.png';
+import bloodthirster from '../assets/items/bloodthirster.png';
+import bulwarkofthemountain from '../assets/items/bulwarkofthemountain.png';
+import chempunkchainsword from '../assets/items/chempunkchainsword.png';
+import chemtechputrifier from '../assets/items/chemtechputrifier.png';
+import cosmicdrive from '../assets/items/cosmicdrive.png';
+import deadmansplate from '../assets/items/deadmansplate.png';
+import deathsdance from '../assets/items/deathsdance.png';
+import demonicembrace from '../assets/items/demonicembrace.png';
+import edgeofnight from '../assets/items/edgeofnight.png';
+import essencereaver from '../assets/items/essencereaver.png';
+import fimbulwinter from '../assets/items/fimbulwinter.png';
+import forceofnature from '../assets/items/forceofnature.png';
+import frozenheart from '../assets/items/frozenheart.png';
+import gargoylestoneplate from '../assets/items/gargoylestoneplate.png';
+import guardianangel from '../assets/items/guardianangel.png';
+import horizonfocus from '../assets/items/horizonfocus.png';
+import hullbreaker from '../assets/items/hullbreaker.png';
+import knightsvow from '../assets/items/knightsvow.png';
+import lichbane from '../assets/items/lichbane.png';
+import lorddominiksregards from '../assets/items/lorddominiksregards.png';
+import manamune from '../assets/items/manamune.png';
+import mawofmalmortius from '../assets/items/mawofmalmortius.png';
+import mejaissoulstealer from '../assets/items/mejaissoulstealer.png';
+import mercurialscimitar from '../assets/items/mercurialscimitar.png';
+import mikaelsblessing from '../assets/items/mikaelsblessing.png';
+import morellonomicon from '../assets/items/morellonomicon.png';
+import mortalreminder from '../assets/items/mortalreminder.png';
+import nashorstooth from '../assets/items/nashorstooth.png';
+import pauldronsofwhiterock from '../assets/items/pauldronsofwhiterock.png';
+import phantomdancer from '../assets/items/phantomdancer.png';
+import rabadonsdeathcap from '../assets/items/rabadonsdeathcap.png';
+import randuinsomen from '../assets/items/randuinsomen.png';
+import rapidfirecannon from '../assets/items/rapidfirecannon.png';
+import ravenoushydra from '../assets/items/ravenoushydra.png';
+import redemption from '../assets/items/redemption.png';
+import runaanshurricane from '../assets/items/runaanshurricane.png';
+import rylaiscrystalscepter from '../assets/items/rylaiscrystalscepter.png';
+import serpentsfang from '../assets/items/serpentsfang.png';
+import seryldasgrudge from '../assets/items/seryldasgrudge.png';
+import shadowflame from '../assets/items/shadowflame.png';
+import shardoftrueice from '../assets/items/shardoftrueice.png';
+import silvermeredawn from '../assets/items/silvermeredawn.png';
+import spearofshojin from '../assets/items/spearofshojin.png';
+import spiritvisage from '../assets/items/spiritvisage.png';
+import staffofflowingwater from '../assets/items/staffofflowingwater.png';
+import steraksgage from '../assets/items/steraksgage.png';
+import stormrazor from '../assets/items/stormrazor.png';
+import sunfireaegis from '../assets/items/sunfireaegis.png';
+import thecollector from '../assets/items/thecollector.png';
+import thornmail from '../assets/items/thornmail.png';
+import titanichydra from '../assets/items/titanichydra.png';
+import turbochemtank from '../assets/items/turbochemtank.png';
+import umbralglaive from '../assets/items/umbralglaive.png';
+import vigilantwardstone from '../assets/items/vigilantwardstone.png';
+import voidstaff from '../assets/items/voidstaff.png';
+import warmogsarmor from '../assets/items/warmogsarmor.png';
+import wintersapproach from '../assets/items/wintersapproach.png';
+import witsend from '../assets/items/witsend.png';
+import zekesconvergence from '../assets/items/zekesconvergence.png';
+import zhonyashourglass from '../assets/items/zhonyashourglass.png';
+import immortalShieldbow from '../assets/items/immortalshieldbow.png';
+import prowlersClaw from '../assets/items/prowlersclaw.png';
+import imperialMandate from '../assets/items/imperialmandate.png';
+import krakenSlayer from '../assets/items/krakenslayer.png';
+import statikkshiv from '../assets/items/statikkshiv.png';
 
  const legendaryItems = [
   {
@@ -218,12 +219,6 @@ import zhonyashourglass from '../assets/items/legendary/zhonyashourglass.png';
     unique: [ `guardian angel`, `saving grace`],
   },
   {
-    id: 25,
-    name: `Guinsoo's Rageblade`,
-    img: guinsoosrageblade,
-    unique: [ `wrath`, `seething strike`],
-  },
-  {
     id: 26,
     name: `Horizon Focus`,
     img: horizonfocus,
@@ -234,12 +229,6 @@ import zhonyashourglass from '../assets/items/legendary/zhonyashourglass.png';
     name: `Hullbreaker`,
     img: hullbreaker,
     unique: [ `hullbreaker`, `boarding party` ],
-  },
-  {
-    id: 28,
-    name: `Infinity Edge`,
-    img: infinityedge,
-    unique: [ `crit modifier` ],
   },
   {
     id: 29,
@@ -305,12 +294,6 @@ import zhonyashourglass from '../assets/items/legendary/zhonyashourglass.png';
     id: 39,
     name: `Nashor's Tooth`,
     img: nashorstooth,
-    unique: [],
-  },
-  {
-    id: 40,
-    name: `Navori Quickblades`,
-    img: navoriquickblades,
     unique: [],
   },
   {
@@ -494,12 +477,6 @@ import zhonyashourglass from '../assets/items/legendary/zhonyashourglass.png';
     unique: [],
   },
   {
-    id: 71,
-    name: `Youmuu's Ghostblade`,
-    img: youmuusghostblade,
-    unique: [],
-  },
-  {
     id: 72,
     name: `Zeke's Convergence`,
     img: zekesconvergence,
@@ -510,6 +487,36 @@ import zhonyashourglass from '../assets/items/legendary/zhonyashourglass.png';
     name: `Zhonya's Hourglass`,
     img: zhonyashourglass,
     unique: [],
+  },
+  {
+    id: 74,
+    name: `Immortal Shieldbow`,
+    img: immortalShieldbow,
+    unique: [ `lifeline` ],
+  },
+  {
+    id: 75,
+    name: `Prowler's Claw`,
+    img: prowlersClaw,
+    unique: [ `sandstrike`, `prowler's claw` ],
+  },
+  {
+    id: 76,
+    name: `Imperial Mandate`,
+    img: imperialMandate,
+    unique: [ `coordinated fire`, `imperial mandate`],
+  },
+  {
+    id: 77,
+    name: `Kraken Slayer`,
+    img: krakenSlayer,
+    unique: [ `bring it down`, `kraken slayer`],
+  },
+  {
+    id: 78,
+    name: `Statikk Shiv`,
+    img: statikkshiv,
+    unique: [ `energized`, `electroshock`, `statikk shiv` ],
   },
 ]
 
