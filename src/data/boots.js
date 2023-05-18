@@ -1,11 +1,11 @@
-import basicBoots from '../assets/items/boots/boots.png';
-import berserkersGreaves from '../assets/items/boots/berserkersgreaves.png';
-import bootsOfSwiftness from '../assets/items/boots/bootsofswiftness.png';
-import ionianBootsOfLucidity from '../assets/items/boots/ionianbootsoflucidity.png';
-import mercurysTreads from '../assets/items/boots/mercurystreads.png';
-import mobilityBoots from '../assets/items/boots/mobilityboots.png';
-import platedSteelcaps from '../assets/items/boots/platedsteelcaps.png';
-import sorcerersShoes from '../assets/items/boots/sorcerersshoes.png';
+import basicBoots from '../assets/items/boots.png';
+import berserkersGreaves from '../assets/items/berserkersgreaves.png';
+import bootsOfSwiftness from '../assets/items/bootsofswiftness.png';
+import ionianBootsOfLucidity from '../assets/items/ionianbootsoflucidity.png';
+import mercurysTreads from '../assets/items/mercurystreads.png';
+import mobilityBoots from '../assets/items/mobilityboots.png';
+import platedSteelcaps from '../assets/items/platedsteelcaps.png';
+import sorcerersShoes from '../assets/items/sorcerersshoes.png';
 
  const boots = [
   {
