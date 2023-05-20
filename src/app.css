@@ -1,13 +1,16 @@
-* {
-  background: black;
-  color: white;
+:root {
+  --button-highlight: #08bab4;
+  --button-lowlight: #036281;
+  --button-font: #FFFFFF;
+
+  --high-gold: #f0e6d2;
+  --mid-gold: #cdbe91;
+  --dim-gold: #463714;
 }
 
-.icon {
-  width: 3.5em;
-  display: inline-block;
-  border: 0.13em solid #41aeb3;
-  border-radius: .3em;
-  margin: 0 .1em;
-  margin-top: 0em;
+html, body {
+  color: var(--mid-gold);
+  background: rgb(1,10,19);
+  background: linear-gradient(190deg, rgba(1,10,19,1) 25%, rgba(5,25,37,1) 78%, rgba(10,48,63,1) 100%);
+  background-attachment: fixed;
 }
