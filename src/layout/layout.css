@@ -1,0 +1,21 @@
+.random_button {
+  border: none;
+  background-color: var(--button-lowlight);
+  padding: .5em;
+  cursor: pointer;
+  color: var(--button-font);
+}
+
+.icon {
+  margin: .2em;
+  width: 3.5em;
+  display: inline-block;
+  border: 0.15em solid;
+  border-image-slice: 1;
+  border-image-source: linear-gradient(190deg, var(--button-highlight) 25%, var(--button-lowlight) 100%);;
+}
+
+.icon.champion {
+  width: 6em;
+  display: block;
+}
