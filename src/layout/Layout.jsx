@@ -5,6 +5,8 @@ import epicItems from '../data/epic-items';
 import boots from '../data/boots';
 import champions from '../data/champions';
 import randomizer from '../utils/randomizer';
+import SelectedItem from './selectedItem/SelectedItem';
+import ChampionPortrait from './championPortrait/ChampionPortrait';
 import './layout.css';
 
 export default function Layout(){
@@ -60,39 +62,13 @@ export default function Layout(){
     <div>
 
     <div>
-      <img
-        className='icon champion'
-        alt={champions[items.champion].name}
-        title={champions[items.champion].name}
-        src={champions[items.champion].img}/>
-      <img
-        className='icon'
-        alt={mythicItems[items.item1].name} title={mythicItems[items.item1].name} src={mythicItems[items.item1].img}/>
-      <img
-        className='icon'
-        alt={boots[items.boots].name}
-        title={boots[items.boots].name}
-        src={boots[items.boots].img}/>
-      <img
-        className='icon'
-        alt={legendaryItems[items.item2].name}
-        title={legendaryItems[items.item2].name}
-        src={legendaryItems[items.item2].img}/>
-      <img
-        className='icon'
-        alt={legendaryItems[items.item3].name}
-        title={legendaryItems[items.item3].name}
-        src={legendaryItems[items.item3].img}/>
-      <img
-        className='icon'
-        alt={legendaryItems[items.item4].name}
-        title={legendaryItems[items.item4].name}
-        src={legendaryItems[items.item4].img}/>
-      <img
-        className='icon'
-        alt={legendaryItems[items.item5].name}
-        title={legendaryItems[items.item5].name}
-        src={legendaryItems[items.item5].img}/>
+      <ChampionPortrait champion={champions[items.champion]}/>
+      <SelectedItem item={mythicItems[items.item1]}/>
+      <SelectedItem item={boots[items.boots]}/>
+      <SelectedItem item={legendaryItems[items.item2]}/>
+      <SelectedItem item={legendaryItems[items.item3]}/>
+      <SelectedItem item={legendaryItems[items.item4]}/>
+      <SelectedItem item={legendaryItems[items.item5]}/>
 
       <button className='random_button' onClick={()=> buttonHandler()}>Randomize !!!</button>
     </div>
