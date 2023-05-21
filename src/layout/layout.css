@@ -14,8 +14,3 @@
   border-image-slice: 1;
   border-image-source: linear-gradient(190deg, var(--button-highlight) 25%, var(--button-lowlight) 100%);;
 }
-
-.icon.champion {
-  width: 6em;
-  display: block;
-}
