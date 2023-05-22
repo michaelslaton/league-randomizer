@@ -1,4 +1,10 @@
 .icon.champion {
-  width: 6em;
+  font-size: 2em;
+  width: 6rem;
+  display: block;
+}
+
+.inactiveSpace.champion {
+  width: 6rem;
   display: block;
 }
