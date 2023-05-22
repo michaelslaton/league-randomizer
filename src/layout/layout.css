@@ -6,11 +6,21 @@
   color: var(--button-font);
 }
 
+.icon-wrapper{
+  display: inline-block
+}
 .icon {
-  margin: .2em;
-  width: 3.5em;
-  display: inline-block;
+  aspect-ratio: 1/1;
+  width: 3.5rem;
   border: 0.15em solid;
   border-image-slice: 1;
   border-image-source: linear-gradient(190deg, var(--button-highlight) 25%, var(--button-lowlight) 100%);;
+  display: inline-block;
+  margin: .1em;
+}
+
+.inactiveSpace {
+  aspect-ratio: 1/1;
+  border: 0.15em solid var(--mid-gold);
+  display: inline-block;
 }

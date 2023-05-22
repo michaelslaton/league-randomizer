@@ -11,6 +11,7 @@ import './layout.css';
 
 export default function Layout(){
   const [ items, setItems ] = useState({
+    activated: false,
     champion: 0,
     item1: 0,
     boots: 0,
@@ -48,6 +49,7 @@ export default function Layout(){
     console.log(`Uniques: `, uniques);
 
     setItems({
+      activated: true,
       champion: results[6],
       item1: results[0],
       boots: results[1],
@@ -62,13 +64,13 @@ export default function Layout(){
     <div>
 
     <div>
-      <ChampionPortrait champion={champions[items.champion]}/>
-      <SelectedItem item={mythicItems[items.item1]}/>
-      <SelectedItem item={boots[items.boots]}/>
-      <SelectedItem item={legendaryItems[items.item2]}/>
-      <SelectedItem item={legendaryItems[items.item3]}/>
-      <SelectedItem item={legendaryItems[items.item4]}/>
-      <SelectedItem item={legendaryItems[items.item5]}/>
+      <ChampionPortrait champion={champions[items.champion]} activated={items.activated}/>
+      <SelectedItem item={mythicItems[items.item1]} activated={items.activated}/>
+      <SelectedItem item={boots[items.boots]} activated={items.activated}/>
+      <SelectedItem item={legendaryItems[items.item2]} activated={items.activated}/>
+      <SelectedItem item={legendaryItems[items.item3]} activated={items.activated}/>
+      <SelectedItem item={legendaryItems[items.item4]} activated={items.activated}/>
+      <SelectedItem item={legendaryItems[items.item5]} activated={items.activated}/>
 
       <button className='random_button' onClick={()=> buttonHandler()}>Randomize !!!</button>
     </div>
