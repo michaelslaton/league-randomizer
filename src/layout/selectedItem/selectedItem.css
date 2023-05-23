@@ -1,0 +1,16 @@
+.icon-wrapper{
+  display: inline-block
+}
+
+.item {
+  aspect-ratio: 1/1;
+  width: 4rem;
+  display: inline-block;
+  margin: .4em;
+}
+.inactive-item {
+  aspect-ratio: 1/1;
+  width: 4rem;
+  margin: .4em;
+  display: inline-block;
+}

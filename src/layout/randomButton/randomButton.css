@@ -1,0 +1,23 @@
+.random_button {
+  cursor: pointer;
+  background-color: var(--button-darklight);
+  border-radius: 10px;
+  padding: .3em .5em;
+  color: var(--button-font);
+  font-size: 1.5rem;
+
+  
+  border: .2em solid;
+  border-image-slice: 1;
+  border-image-source: linear-gradient(190deg, var(--button-lowlight) 25%, var(--button-lowlight) 100%);
+  transition: 300ms ease-in-out;
+}
+
+.random_button:hover{
+  border-image-source: linear-gradient(170deg, var(--button-font) 25%, var(--button-highlight) 100%);
+  transition: 100ms ease-in-out;
+}
+
+.random_button:active{
+  border-image-source: linear-gradient(170deg, white 25%, white 100%);
+}

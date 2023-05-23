@@ -1,26 +1,16 @@
-.random_button {
-  border: none;
-  background-color: var(--button-lowlight);
-  padding: .5em;
-  cursor: pointer;
-  color: var(--button-font);
+.game-window {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding: 2em 0;
 }
 
-.icon-wrapper{
-  display: inline-block
-}
-.icon {
-  aspect-ratio: 1/1;
-  width: 3.5rem;
-  border: 0.15em solid;
+.icon-border{
+  border: 0.3rem solid;
   border-image-slice: 1;
   border-image-source: linear-gradient(190deg, var(--button-highlight) 25%, var(--button-lowlight) 100%);;
-  display: inline-block;
-  margin: .1em;
 }
-
-.inactiveSpace {
-  aspect-ratio: 1/1;
-  border: 0.15em solid var(--mid-gold);
-  display: inline-block;
+.icon-border-inactive {
+  border: 0.3em solid var(--mid-gold);
 }
