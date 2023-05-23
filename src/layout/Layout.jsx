@@ -7,6 +7,7 @@ import champions from '../data/champions';
 import randomizer from '../utils/randomizer';
 import SelectedItem from './selectedItem/SelectedItem';
 import ChampionPortrait from './championPortrait/ChampionPortrait';
+import RandomButton from './randomButton/RandomButton';
 import './layout.css';
 
 export default function Layout(){
@@ -62,19 +63,19 @@ export default function Layout(){
 
   return (
     <div>
+      <div className='game-window'>
+        <div>
+          <ChampionPortrait champion={champions[items.champion]} activated={items.activated}/>
+          <SelectedItem item={mythicItems[items.item1]} activated={items.activated}/>
+          <SelectedItem item={boots[items.boots]} activated={items.activated}/>
+          <SelectedItem item={legendaryItems[items.item2]} activated={items.activated}/>
+          <SelectedItem item={legendaryItems[items.item3]} activated={items.activated}/>
+          <SelectedItem item={legendaryItems[items.item4]} activated={items.activated}/>
+          <SelectedItem item={legendaryItems[items.item5]} activated={items.activated}/>
 
-    <div>
-      <ChampionPortrait champion={champions[items.champion]} activated={items.activated}/>
-      <SelectedItem item={mythicItems[items.item1]} activated={items.activated}/>
-      <SelectedItem item={boots[items.boots]} activated={items.activated}/>
-      <SelectedItem item={legendaryItems[items.item2]} activated={items.activated}/>
-      <SelectedItem item={legendaryItems[items.item3]} activated={items.activated}/>
-      <SelectedItem item={legendaryItems[items.item4]} activated={items.activated}/>
-      <SelectedItem item={legendaryItems[items.item5]} activated={items.activated}/>
-
-      <button className='random_button' onClick={()=> buttonHandler()}>Randomize !!!</button>
-    </div>
-      These are words!
+          <RandomButton buttonHandler={buttonHandler}/>
+        </div>
+      </div>
     </div>
   )
 }
